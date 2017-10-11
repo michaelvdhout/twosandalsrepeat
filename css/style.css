@@ -1,8 +1,13 @@
+* {
+  text-align: center;
+  font-family: helvetica;
+}
+
 .toplinks {
 
   font-weight: bold;
   color: white;
-  background-image: url("../css/binarybrickslogo.jpg");
+  background-image: url("./css/binarybrickslogo.jpg");
   background-position: center;
   background-size: cover;
 }
